@@ -150,7 +150,7 @@ systemctl status zabbix-agent
 
 
 
-# ***** Implementation Screnshots *****
+# ***** Implementation Screenshots *****
 
 
 

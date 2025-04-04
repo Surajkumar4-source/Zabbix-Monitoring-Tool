@@ -79,7 +79,7 @@ http://<your_server_ip>/zabbix
 
 <br>
 
-## Adding a New Client to Monitor
+# Adding a New Client to Monitor
 
 ### Step 1: Prepare the New Ubuntu Machine
 ```yml
@@ -137,5 +137,11 @@ systemctl status zabbix-agent
 - Check firewall (port **10050** must be open).
 - Verify network connectivity between Zabbix server and client.
 
+<br>
+
 ✅ **Done! Your new host is now being monitored in Zabbix.**
 
+
+
+<br>
+<br>

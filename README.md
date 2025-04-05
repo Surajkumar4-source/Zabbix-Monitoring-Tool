@@ -331,3 +331,21 @@ systemctl status zabbix-agent
 
 
 ![final](https://github.com/user-attachments/assets/1403e4cf-3bd2-4fcb-a19d-575708bd2ee3)
+
+
+
+
+<br>
+<br>
+
+
+![Screenshot from 2025-04-05 03-39-02](https://github.com/user-attachments/assets/2a354f8f-eeca-46a4-9f1a-679d510fd6a5)
+
+
+
+
+
+
+
+
+

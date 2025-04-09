@@ -253,6 +253,8 @@ systemctl status zabbix-agent
 <br>
 <br>
 
+# 1
+
 ![1](https://github.com/user-attachments/assets/626ab861-a6d1-45fc-abbf-c286f9551c14)
 
 
@@ -265,6 +267,7 @@ systemctl status zabbix-agent
 <br>
 
 
+# 2
 
 ![2](https://github.com/user-attachments/assets/e88787af-b188-4e7e-ba08-3b410c96dbe0)
 
@@ -274,7 +277,7 @@ systemctl status zabbix-agent
 <br>
 
 
-
+# 3
 
 ![3](https://github.com/user-attachments/assets/8e939ef7-3fb8-4237-afe6-1f1e11893673)
 
@@ -285,6 +288,7 @@ systemctl status zabbix-agent
 <br>
 
 
+# 4
 
 ![4](https://github.com/user-attachments/assets/05ba0fda-38b3-4a7b-967e-cd0cbca95c8d)
 
@@ -294,7 +298,7 @@ systemctl status zabbix-agent
 <br>
 
 
-
+# 5
 
 ![1 interface](https://github.com/user-attachments/assets/0124d493-4d4d-4642-bcc4-f6d7c7176a51)
 
@@ -303,7 +307,7 @@ systemctl status zabbix-agent
 <br>
 
 
-
+# 6
 
 ![host 1](https://github.com/user-attachments/assets/a56e1b78-65e4-4d8c-8a97-d57985861829)
 
@@ -311,6 +315,7 @@ systemctl status zabbix-agent
 <br>
 <br>
 
+# 7
 
 ![host added 2](https://github.com/user-attachments/assets/03596c28-7f72-4094-b7be-fe8a20a036af)
 
@@ -319,6 +324,7 @@ systemctl status zabbix-agent
 <br>
 <br>
 
+# 8
 
 ![info](https://github.com/user-attachments/assets/b3847307-4251-4920-ab6b-7f8f6900635b)
 
@@ -328,7 +334,7 @@ systemctl status zabbix-agent
 
 
 
-
+# 9
 
 ![final](https://github.com/user-attachments/assets/1403e4cf-3bd2-4fcb-a19d-575708bd2ee3)
 
@@ -337,6 +343,8 @@ systemctl status zabbix-agent
 
 <br>
 <br>
+
+# 10
 
 
 ![Screenshot from 2025-04-05 03-39-02](https://github.com/user-attachments/assets/2a354f8f-eeca-46a4-9f1a-679d510fd6a5)

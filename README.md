@@ -4,10 +4,6 @@
 
 <br>
 
-
-
-
-
 ## **Introduction to Zabbix**  
 **Zabbix** is an open-source enterprise-level monitoring solution designed for real-time monitoring of networks, servers, applications, cloud environments, and services. It provides a centralized platform to collect, analyze, and visualize system performance and health data.  
 

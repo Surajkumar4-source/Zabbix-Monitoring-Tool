@@ -34,7 +34,6 @@ To deploy Zabbix, install the server along with its dependencies, including a da
 - **Zabbix Server & Agent Installation:** The agent collects data from the local machine.  
 
 
-
 ---
 
 ## **Zabbix Monitoring Capabilities**  

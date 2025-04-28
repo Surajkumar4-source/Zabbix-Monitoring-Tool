@@ -81,7 +81,6 @@ To deploy Zabbix, install the server along with its dependencies, including a da
 
 
 
-
 <br>
 <br>
 

@@ -1,4 +1,3 @@
-
 # **Zabbix Server & Client Configuration on Single VM (Ubuntu 22.04)**
 
 ## **Introduction to Zabbix**  

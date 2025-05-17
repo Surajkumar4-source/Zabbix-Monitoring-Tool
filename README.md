@@ -31,7 +31,6 @@ To deploy Zabbix, install the server along with its dependencies, including a da
 - **Web Interface Setup:** The Zabbix frontend is configured using Apache/Nginx and PHP.  
 - **Zabbix Server & Agent Installation:** The agent collects data from the local machine.  
 
-
 ---
 
 ## **Zabbix Monitoring Capabilities**  
